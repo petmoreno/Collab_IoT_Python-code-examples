@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Publisher/1.0.0": {
+        "dependencies": {
+          "M2Mqtt": "4.3.0",
+          "mosquittopp": "1.0.2"
+        },
+        "runtime": {
+          "Publisher.dll": {}
+        }
+      },
+      "M2Mqtt/4.3.0": {
+        "runtime": {
+          "lib/net45/M2Mqtt.Net.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "mosquittopp/1.0.2": {}
+    }
+  },
+  "libraries": {
+    "Publisher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "M2Mqtt/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2A1uM20uxuovQKPA0dkZUqD9gUpIMaX7KxdLiVM7IEXdPRL709hGuudHnvlDxm2/6b2LcOjshrYGVG9vdpipag==",
+      "path": "m2mqtt/4.3.0",
+      "hashPath": "m2mqtt.4.3.0.nupkg.sha512"
+    },
+    "mosquittopp/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nf2YwtbfV5EwdpqXofs1K+ogusfJmhY0hHrDRsUAeip+1VAqogBP5m+7DIRa+k1OnuW10JuEkLbl3s4o2+tJgA==",
+      "path": "mosquittopp/1.0.2",
+      "hashPath": "mosquittopp.1.0.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.csproj.AssemblyReference.cache
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.AssemblyInfoInputs.cache
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.AssemblyInfo.cs
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.csproj.CoreCompileInputs.cache
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\bin\Debug\net5.0\socket_sharp.exe
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\bin\Debug\net5.0\socket_sharp.deps.json
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\bin\Debug\net5.0\socket_sharp.runtimeconfig.json
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\bin\Debug\net5.0\socket_sharp.runtimeconfig.dev.json
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\bin\Debug\net5.0\socket_sharp.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\bin\Debug\net5.0\ref\socket_sharp.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\bin\Debug\net5.0\socket_sharp.pdb
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\ref\socket_sharp.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.pdb
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\socket_sharp\obj\Debug\net5.0\socket_sharp.genruntimeconfig.cache

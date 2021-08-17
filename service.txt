@@ -1,0 +1,2 @@
+Please, calculate the following:
+1 + 2 = 3.0

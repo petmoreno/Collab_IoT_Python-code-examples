@@ -1,0 +1,16 @@
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\bin\Debug\net5.0\thread3.exe
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\bin\Debug\net5.0\thread3.deps.json
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\bin\Debug\net5.0\thread3.runtimeconfig.json
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\bin\Debug\net5.0\thread3.runtimeconfig.dev.json
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\bin\Debug\net5.0\thread3.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\bin\Debug\net5.0\ref\thread3.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\bin\Debug\net5.0\thread3.pdb
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.csproj.AssemblyReference.cache
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.AssemblyInfoInputs.cache
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.AssemblyInfo.cs
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.csproj.CoreCompileInputs.cache
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\ref\thread3.dll
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.pdb
+C:\Users\k5000751\OneDrive - Epedu O365\SeAMK\GitHub\Collab_IoT_Python code examples\Csharp_code\ParallelProgramming\thread3\obj\Debug\net5.0\thread3.genruntimeconfig.cache
