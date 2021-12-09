@@ -15,9 +15,6 @@ def WorkerThreadMethod2():
         print('2',end='')
         time.sleep(0.001)
 
-#delegates for creating threads
-#worker1=WorkerThreadMethod1()
-#worker2=WorkerThreadMethod2()
 
 print('Main - create thread')
 
